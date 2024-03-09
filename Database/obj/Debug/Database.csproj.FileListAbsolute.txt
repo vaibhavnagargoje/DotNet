@@ -1,0 +1,7 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\bin\Debug\Database.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\bin\Debug\Database.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\bin\Debug\Database.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\obj\Debug\Database.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\Database\obj\Debug\Database.pdb

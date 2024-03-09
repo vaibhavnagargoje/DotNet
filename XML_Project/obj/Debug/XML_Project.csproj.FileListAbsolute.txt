@@ -1,0 +1,7 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\bin\Debug\XML_Project.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\bin\Debug\XML_Project.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\bin\Debug\XML_Project.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\obj\Debug\XML_Project.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\obj\Debug\XML_Project.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\obj\Debug\XML_Project.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\hand on\XML_Project\obj\Debug\XML_Project.pdb
